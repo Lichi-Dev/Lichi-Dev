@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.bonnyboben.com/">www.bonnyboben.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.bonnyboben.com/" target="blank">www.bonnyboben.com</a>
 
 - 📫 How to reach me **bonnybobencr7@gmail.com**
 
