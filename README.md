@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Lichi-Dev/Lichi-Dev/blob/main/banner-new.png)](https://www.bonnyboben.com/)
+[![MasterHead](https://github.com/Lichi-Dev/Lichi-Dev/blob/main/githubHeader.png)](https://www.bonnyboben.com/)
 <h1 align="center">Hi 👋, I'm Bonny Boben</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Lichi-Dev/Lichi-Dev/blob/main/meme.gif">
