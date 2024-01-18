@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lichi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lichi-dev" /> </p>
 
-- 🔭 I’m currently working as a **Full Stack Engineer**
+- 🔭 I’m currently working as a **Backend Engineer**
 
 - 🌱 I’m currently learning **Typescript**
 
